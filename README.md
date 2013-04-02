@@ -1,4 +1,4 @@
 PySnake
 =======
 
-Old my python game project.
+My old python game project.
